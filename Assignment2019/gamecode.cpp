@@ -298,6 +298,8 @@ ErrorType Game::StartOfGame()
 	//test
 	   
 
+	//noice
+
 	return SUCCESS;
 }
 
