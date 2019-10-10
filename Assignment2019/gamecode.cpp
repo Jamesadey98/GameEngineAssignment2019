@@ -298,7 +298,7 @@ ErrorType Game::StartOfGame()
 	//test
 	   
 
-	//noice
+	//this is a test comment
 
 	return SUCCESS;
 }
