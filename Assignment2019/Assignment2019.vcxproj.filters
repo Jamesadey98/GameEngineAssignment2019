@@ -81,4 +81,224 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="assets\alert.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\chirp.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\explosion.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\explosion1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\explosion2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\explosion3.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\explosion4.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\explosion5.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\Gun.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\hiss.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\Laser.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\launch.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\launch1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\page.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\select.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\servo.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\servoloop.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\shoot.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\shot2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\shot3.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\target1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\target2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="assets\thrustloop2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\basic.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boss.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boss1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boss2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boss3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boss4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\boss5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\bullet.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crate1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crate2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crosshairblue.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\crosshairred.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\enc.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\explosion8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\firelamp.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\harrasser.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\heavy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\lamp.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\mine1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\mine2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\mine3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\mine4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\mine5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\missile.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\plasma.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\puff8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\rock1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\rock2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\rock3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\rock4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\spaceship.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\star.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\titan.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\turret.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="assets\readme.txt" />
+  </ItemGroup>
 </Project>
