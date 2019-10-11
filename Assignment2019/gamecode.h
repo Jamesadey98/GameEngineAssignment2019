@@ -40,12 +40,20 @@ private:
 
 	GameTimer gt;
 
+	PictureIndex image;
+	Vector2D shipPos;
+	Vector2D moveShip;
+
 	static const int NUMDOTS = 2000;
 	Vector2D dots[NUMDOTS];
 	Vector2D dotVelocities[NUMDOTS];
 
+	
+
 public:
-	static Game instance;          // Singleton instance
+	static Game instance;      // Singleton instance
+
+	
 
    // Starts the game engines - Draw Engine, Sound Engine, Input Engine - singletons
    // This is called soon after the program runs

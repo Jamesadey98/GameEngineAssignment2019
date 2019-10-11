@@ -295,10 +295,19 @@ ErrorType Game::StartOfGame()
 {
    // Code to set up your game *********************************************
    // **********************************************************************
-	//test
+	
+	MyDrawEngine* pDE = MyDrawEngine::GetInstance();
+	image = pDE->LoadPicture(L"spaceship.bmp");
+
+	MyInputs* pInputs = MyInputs::GetInstance();
+	pInputs->SampleKeyboard();
+
+	shipPos = Vector2D(-200, 300); //initialise the ships starting position
+	moveShip = Vector2D(1.5f, 1.5f); // initialise the ships movement speed
+
 	   
 
-	//this is a test comment noice on another pc
+	
 
 	return SUCCESS;
 }
@@ -324,7 +333,14 @@ ErrorType Game::Update()
 
    // Your code goes here *************************************************
    // *********************************************************************
-   
+	
+	MyDrawEngine* pDE = MyDrawEngine::GetInstance(); //gets the pointer to the draw engine
+	pDE->DrawAt(shipPos, image, 2.0f, 0.5f, 0.8f); //draws the image of the spaceship
+
+	shipPos = shipPos + moveShip; // updates the ship position
+
+	
+
 	
 
 

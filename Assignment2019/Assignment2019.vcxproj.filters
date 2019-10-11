@@ -297,6 +297,9 @@
     <Image Include="assets\turret.bmp">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="spaceship.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <Text Include="assets\readme.txt" />

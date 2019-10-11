@@ -117,6 +117,7 @@
     <Image Include="assets\star.bmp" />
     <Image Include="assets\titan.bmp" />
     <Image Include="assets\turret.bmp" />
+    <Image Include="spaceship.bmp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="assets\readme.txt" />
