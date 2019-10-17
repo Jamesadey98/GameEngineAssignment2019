@@ -10,7 +10,6 @@
 #include "windows.h"
 #include "mydrawengine.h"
 #include "gametimer.h"
-#include "Player.h"
 
 // This is a hack for reading keyboard in situations where you don't want to
 // use a full input system.
@@ -41,15 +40,13 @@ private:
 
 	GameTimer gt;
 
-	Player* p;
+	PictureIndex image;
+	Vector2D shipPos;
+	Vector2D moveShip;
 
-	
-	
-
-	/* static const int NUMDOTS = 2000;
+	static const int NUMDOTS = 2000;
 	Vector2D dots[NUMDOTS];
 	Vector2D dotVelocities[NUMDOTS];
-	*/
 
 	
 
