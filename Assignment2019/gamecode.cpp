@@ -295,10 +295,10 @@ ErrorType Game::StartOfGame()
 {
    // Code to set up your game *********************************************
    // **********************************************************************
-  
-	p = new Player();   
-	p->PlayerStart();
-	
+	//test
+	   
+
+	//noice
 
 	return SUCCESS;
 }
@@ -324,11 +324,7 @@ ErrorType Game::Update()
 
    // Your code goes here *************************************************
    // *********************************************************************
-	
-	p->PlayerMovement();
-	p->PlayerUpdate();
-	
-
+   
 	
 
 
@@ -348,8 +344,6 @@ ErrorType Game::EndOfGame()
    // Add code here to tidy up ********************************************
    // *********************************************************************
 
-	delete p;
-	p = nullptr;
 
 
 	
