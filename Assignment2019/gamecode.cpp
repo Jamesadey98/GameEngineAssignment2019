@@ -310,6 +310,8 @@ ErrorType Game::StartOfGame()
 // Gameplay programmer will develop this to create an actual game
 ErrorType Game::Update()
 {
+	
+
 	// Check for entry to pause menu
 	static bool escapepressed = true;
 	if (KEYPRESSED(VK_ESCAPE))
@@ -327,6 +329,7 @@ ErrorType Game::Update()
 
 	p->PlayerMovement();
 	p->PlayerUpdate();
+
 
 
 
